@@ -33,14 +33,6 @@
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PanagiotisAnag/PanagiotisAnag/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PanagiotisAnag/PanagiotisAnag/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/PanagiotisAnag/PanagiotisAnag/output/github-contribution-grid-snake.svg" />
-</picture>
-
----
-
 ## Let's Connect
 
 <div align="center">
@@ -48,6 +40,18 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/panagiotis-anagnostou-39b21224b/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pananagnostou2002@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/_senp._)
+
+</div>
+
+---
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PanagiotisAnag/PanagiotisAnag/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PanagiotisAnag/PanagiotisAnag/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/PanagiotisAnag/PanagiotisAnag/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
